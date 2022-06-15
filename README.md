@@ -1,4 +1,5 @@
-# water_prediction
+# IoT-Sagemaker-Water-Quality
+
 
 This project tells us about whether the water is drinkable or not. This project consists of both the hardware and the software. We will found out the chemicals in the water using the appropriate sensors and a microcontroller is used. An ML model is used for predicting whether the water is drinkable or not using the sensor data.
 
